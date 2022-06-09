@@ -1,6 +1,5 @@
 package com.checkpoint.movie.controller;
 
-import com.checkpoint.movie.dto.MovieDTO;
 import com.checkpoint.movie.entity.MovieEntity;
 import com.checkpoint.movie.service.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
