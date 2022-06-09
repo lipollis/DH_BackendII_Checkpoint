@@ -31,10 +31,9 @@
 
 <div align="left">
   <p align="justify"> A partir da seguinte arquitetura de microsserviços, pedimos que você a implemente usando Spring Cloud. </p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70px" />
 </div>
 <div align="center">
-   <img src="./src/Estrutura microsserviço.png" width="70px" />
+   <img src="./src/Estrutura microsserviço.png" />
 </div>
 
 <br>
