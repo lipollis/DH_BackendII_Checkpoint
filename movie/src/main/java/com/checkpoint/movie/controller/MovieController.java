@@ -24,7 +24,7 @@ public class MovieController {
     }
 
     @GetMapping("/catalog/{genre}")
-    public List<MovieEntity> find(@PathVariable String genre){
+    public List<MovieEntity> findByGenre(@PathVariable String genre){
         return service.findByGenre(genre);
     }
 }
