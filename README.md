@@ -1,3 +1,4 @@
+<div align="right"><img src="https://github.com/lipollis/Imagens-Git/blob/main/sun.png" /></div>
 <h1 align="center"> DH - Checkpoint 01 </h1>
 <h1 align="center"> Backend II </h1>
 
